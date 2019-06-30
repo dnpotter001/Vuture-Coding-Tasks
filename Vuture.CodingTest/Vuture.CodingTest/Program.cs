@@ -163,6 +163,7 @@ namespace Vuture.CodingTest
 
             Console.WriteLine(" - - - - - - - - Task Three C - - - - - - - - ");
             Console.WriteLine(vt.censorPali("Anna went to vote in the election to fulfil her civic duty"));
+            Console.WriteLine(vt.censorPali("Racecar noon level song David"));
 
             Console.WriteLine();
 
